@@ -10,5 +10,5 @@ conda create --name openai
 
 pip install langchain
 pip install openai
-set OPENAI_API_KEY=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
+set OPENAI_API_KEY=sk-xxx
 ```
