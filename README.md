@@ -5,3 +5,6 @@
 - Agentic: allow a language model to interact with its environment
 
 The LangChain framework is designed around these principles. This repository is to explore the usage of Langchain in different scenarios.
+```
+conda create --name openai
+```
