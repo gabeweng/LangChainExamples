@@ -7,4 +7,8 @@
 The LangChain framework is designed around these principles. This repository is to explore the usage of Langchain in different scenarios.
 ```
 conda create --name openai
+
+pip install langchain
+pip install openai
+set OPENAI_API_KEY=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
 ```
